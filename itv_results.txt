@@ -1,0 +1,12 @@
+CCTV3,http://101.18.26.104:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV7,http://121.19.134.204:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV13,http://121.19.134.204:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+三沙卫视,http://101.18.26.104:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+保定新闻综合,http://101.18.26.104:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+四川卫视,http://101.18.26.104:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山东教育,http://121.19.134.204:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+河北公共,http://121.19.134.204:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+河北经济生活,http://121.19.134.204:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+湖南卫视,http://101.18.26.104:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+金鹰纪实,http://121.19.134.204:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+青海卫视,http://121.19.134.204:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
