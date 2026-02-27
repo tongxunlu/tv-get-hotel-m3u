@@ -1,1 +1,0 @@
-西藏卫视,http://121.19.134.204:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,0.159 MB/s
